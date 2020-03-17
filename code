@@ -1,0 +1,31 @@
+print("Line 1: to continue to the next \n question after you answer it, type in 'next'")
+line2 = input() 
+if(line2 == "next"):
+  print("Line 2: good, to the next question")
+else:
+  print("Line 2: PAY ATTENTION TO LINE 1!!!!!!")
+line3 = input()
+if(line3 == "next"):
+ print("what is 12 - 3")
+else:
+  print("wow, this is disappointing work on your self control")
+  print("what is 12 - 3")
+line4 = input()
+if(line4 == "9"):
+  print("wow are you smarter than yanet? yes or no?")
+else:
+  print ("are you yanet? yes or no")
+line5 = input()
+if(line5 == "yes"):
+  print("thats what i thought too")
+elif(line5 == "no"):
+  print("are you roobsan?")
+  print("nevermind")
+  print("whats your name?")
+line6 = input()
+if(line6 = "roobsan"): 
+  print("GIT GUD!!!!!!!!!")
+elif(line6 = "yanet"):
+  print("you fara")
+if(line6 = "dani"):
+  print("you hacker")  
